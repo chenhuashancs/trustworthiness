@@ -1,4 +1,6 @@
 #experiments setup
+
+
 experiment_E1.R: 
 The program for Numerical Experiment in Section III.E. 1). It is used to generate data, calculate naive and adjusted estimators, and output the estimates to data file for further processing.
 
